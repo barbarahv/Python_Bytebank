@@ -1,0 +1,10 @@
+[run]
+source  = ./pythonBytebank
+
+[report]
+exclude_lines =
+    des __ster__
+
+
+[html]
+directory = coverage_relatorio_html
